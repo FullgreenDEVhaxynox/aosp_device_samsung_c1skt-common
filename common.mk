@@ -85,7 +85,8 @@ PRODUCT_PACKAGES += \
     libUMP \
     lights.exynos4 \
     macloader \
-    tinymix
+    tinymix \
+    helper
 
 # Misc..    
 PRODUCT_PACKAGES += \
